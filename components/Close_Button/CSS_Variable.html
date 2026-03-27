@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Custom Close Button</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+    <style>
+      /* Customize the Bootstrap close button using its CSS variables */
+      .btn-close {
+        --bs-btn-close-color: red;           /* Changes the icon color to red */
+        --bs-btn-close-opacity: 1;           /* Makes it fully solid (default is 0.5) */
+        --bs-btn-close-hover-opacity: 0.5;   /* Fades it slightly when you hover */
+      }
+    </style>
+  </head>
+  <body class="p-5">
+    
+    <button type="button" class="btn-close" aria-label="Close"></button>
+
+  </body>
+</html>
