@@ -1,5 +1,5 @@
 # 👋 About Me
-Welcome to my personal Bootstrap & Responsive Design repository!
+Welcome to my personal Bootstrap & Responsive Design repository! 
 
 I am Sharik Ahmed, a student specializing in AI/ML. While my core focus is on logic and backend systems, I recognize the importance of delivering data through clean, accessible, and responsive user interfaces. 
 
