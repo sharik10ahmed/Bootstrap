@@ -43,5 +43,5 @@ I focus on writing clean markup and leveraging the framework's power rather than
 * **Interests:** AI/ML, C, Python, SQL, Web Dev
 
 ⭐ Star this repository if you find the code useful!       
-  
+   
  
