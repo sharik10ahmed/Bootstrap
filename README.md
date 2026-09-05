@@ -42,5 +42,5 @@ I focus on writing clean markup and leveraging the framework's power rather than
 * **Role:** Student & Developer
 * **Interests:** AI/ML, C, Python, SQL, Web Dev
 
-⭐ Kindly STAR this repository if you find the code useful!      
+⭐ Kindly STAR this repository if you find the code useful!       
   
